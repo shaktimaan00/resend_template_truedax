@@ -1,6 +1,3 @@
-Certainly! Here's a README.md file template for your project:
-
-```markdown
 # Project Name
 
 A project utilizing the Resend email service to handle contact form submissions and newsletter subscriptions.
@@ -28,7 +25,7 @@ git clone [https://github.com/your-username/project-name.git](https://github.com
 2. Install dependencies:
 
 ```
-cd project-name
+cd my-app
 npm install
 ```
 
@@ -83,7 +80,3 @@ curl POST http://localhost:3000/api/subscribe \
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-
-Replace `Project Name`, `Description`, `Features`, `Installation`, `Usage`, `Example`, and `License` sections with relevant information about your project. Also, ensure to include the appropriate commands and instructions based on your project setup and requirements.
